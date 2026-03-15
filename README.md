@@ -16,3 +16,7 @@ Use case quản lý thông tin
 Nhóm Use case Quản lý danh mục sản phẩm
 
 ![image alt](https://github.com/Namne111/WebBanqao/blob/8f687e04aa5338ea1bd8d41685ff5e8cd7f71431/Screenshot%202026-03-15%20155628.png)
+
+Nhóm Use case Mua hàng
+
+![image alt](https://github.com/Namne111/WebBanqao/blob/db8792cedba5011ad88800b636e07135faba5164/Screenshot%202026-03-15%20155824.png)
