@@ -20,3 +20,38 @@ Nhóm Use case Quản lý danh mục sản phẩm
 Nhóm Use case Mua hàng
 
 ![image alt](https://github.com/Namne111/WebBanqao/blob/db8792cedba5011ad88800b636e07135faba5164/Screenshot%202026-03-15%20155824.png)
+
+🛍️ Tác nhân “Khách hàng” có các UC sau:
+
+•	Đăng kí làm thành viên
+•	Xem thông tin sản phẩm
+•	Xem thông tin giỏ hàng
+•	Chọn sản phẩm cần mua
+•	Thêm, bớt sản phẩm trong giỏ hàng
+•	Thực hiện việc mua hàng
+•	Thanh toán
+
+🔧 Tác nhân “Người quản lý” có các UC sau:
+
+•	Tiếp nhận đơn hàng
+•	Giao cho nhân viên thực hiện 
+•	Quản lý danh sách thành viên
+•	Quản lý danh mục sản phẩm
+
+
+👤 Tác nhân “Nhân viên” có các UC sau:
+
+•	Thực hiện giao hàng
+•	Báo cáo kết quả
+
+
+Ngoài ra, các thành viên của hệ thống bao gồm người quản lý, nhân viên và các khách hàng đã đăng ký làm thành viên còn có các UC sau:
+•	Đăng nhập
+•	Xem thông tin cá nhân
+•	Sửa đổi thông tin cá nhân
+
+
+
+
+
+
